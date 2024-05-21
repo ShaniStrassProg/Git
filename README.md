@@ -1,5 +1,5 @@
 # Git
-my hw on git
+git
 
 
 hello!!!!!!
